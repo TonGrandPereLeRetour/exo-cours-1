@@ -1,0 +1,8 @@
+{
+  "name": "Clicker.Achievements",
+  "rootNamespace": "Clicker.Achievements",
+  "references": [
+    "Clicker.Shared",
+    "Unity.TextMeshPro"
+  ]
+}

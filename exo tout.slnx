@@ -1,0 +1,12 @@
+﻿<Solution>
+  <Project Path="Clicker.Settings.csproj" />
+  <Project Path="Clicker.Shared.csproj" />
+  <Project Path="Clicker.Workers.csproj" />
+  <Project Path="Clicker.Generators.csproj" />
+  <Project Path="Clicker.Workers.Tests.csproj" />
+  <Project Path="Clicker.Save.csproj" />
+  <Project Path="Clicker.Buildings.csproj" />
+  <Project Path="Clicker.Achievements.csproj" />
+  <Project Path="Clicker.Click.csproj" />
+  <Project Path="Tests.csproj" />
+</Solution>

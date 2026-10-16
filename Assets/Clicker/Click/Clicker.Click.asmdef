@@ -1,0 +1,9 @@
+{
+  "name": "Clicker.Click",
+  "rootNamespace": "Clicker.Click",
+  "references": [
+    "Clicker.Shared",
+    "UnityEngine.UI",
+    "Unity.TextMeshPro"
+  ]
+}

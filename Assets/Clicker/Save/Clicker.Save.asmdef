@@ -1,0 +1,9 @@
+{
+  "name": "Clicker.Save",
+  "rootNamespace": "Clicker.Save",
+  "references": [
+    "Clicker.Shared",
+    "Clicker.Generators",
+    "Clicker.Achievements"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Clicker.Settings",
+  "rootNamespace": "Clicker.Settings",
+  "references": [
+    "UnityEngine.UI",
+    "Unity.TextMeshPro"
+  ]
+}

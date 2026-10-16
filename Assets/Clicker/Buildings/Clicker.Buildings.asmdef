@@ -1,0 +1,16 @@
+{
+    "name": "Clicker.Buildings",
+    "rootNamespace": "",
+    "references": [
+        "GUID:48113b313a8f3644b821f278914ce4ab"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

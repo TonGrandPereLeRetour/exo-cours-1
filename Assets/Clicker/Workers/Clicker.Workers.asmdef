@@ -1,0 +1,5 @@
+{
+  "name": "Clicker.Workers",
+  "rootNamespace": "Clicker.Workers",
+  "references": ["Clicker.Shared"]
+}
